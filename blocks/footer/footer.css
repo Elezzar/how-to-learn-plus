@@ -1,0 +1,7 @@
+.footer {
+  margin: 0 auto;
+  min-height: 350px;
+  position: relative;
+  display: flex;
+  background-color: #1f1f1f;
+}
